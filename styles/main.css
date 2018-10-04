@@ -1,0 +1,15 @@
+h2 {
+    text-align: center;
+   /* border: 3px solid black;*/
+                     font-family: 'Old Standard TT', serif;
+                     color: #626262;
+      }
+h3{ color: #375C44;}
+p {font-family: 'Old Standard TT', serif; }
+
+head{
+    .topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+}
